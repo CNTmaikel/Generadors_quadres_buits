@@ -1,7 +1,7 @@
 # Generadors_quadres_buits
 Senzillament un generador de quadres buits
 
-Una evolució del [primer projecte]([url](https://github.com/Miquellama/Generador_quadres.git)) el qual ens introdueix als principis de les interfícies gràfiques.
+Una evolució del ([Primer projecte](https://github.com/Miquellama/Generador_quadres.git)) el qual ens introdueix als principis de les interfícies gràfiques.
 
 
 
