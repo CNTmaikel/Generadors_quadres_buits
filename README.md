@@ -1,7 +1,7 @@
 # Generadors de quadres buits
 Senzillament un generador de quadres buits
 
-Una evolució del [primer projecte](https://github.com/Miquellama/Generador_quadres.git) el qual ens introdueix als principis de les interfícies gràfiques.
+Una evolució del [primer projecte](https://github.com/CNTmaikel/Generador_quadres.git) el qual ens introdueix als principis de les interfícies gràfiques.
 
 
 
@@ -13,7 +13,7 @@ Una evolució del [primer projecte](https://github.com/Miquellama/Generador_quad
 Clonarem el projecte al nostre ordinador:
 
 ```bash
-  ~$ git clone https://github.com/Miquellama/Generador_quadres_buits.git
+  ~$ git clone https://github.com/CNTmaikel/Generador_quadres_buits.git
 ```
 ## Executar l'arxiu.
 
