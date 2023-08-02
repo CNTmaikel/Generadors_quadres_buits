@@ -5,12 +5,12 @@ from tqdm.auto import tqdm
 os.system("clear")
 
 print("")
-print("------------------------Generador de quadrilaters buits------------------------")
+print("------------------------Generador de quadres buits------------------------")
 print("")
-print("Hola, benvingut al programa de creació de quadriaters buits :D")
+print("Hola, benvingut al programa de creació de quadres buits :D")
 print("")
 print("--------------------------------Instruccions--------------------------------")
-print("Hauràs d'introduir un valor per l'altura i la llargada del quadrilater")
+print("Hauràs d'introduir un valor per l'altura i la llargada del quadre")
 print("IMPORTANT tingues en compte no posar ningun caracter que no sigui un nombre")
 print("En aquest cas el prgrama fallara i s'haurà de reiniciar")
 print("")
@@ -18,7 +18,7 @@ print("--------------------------------Instruccions-----------------------------
 print("")
 print("Perfavor, premeu intro per continuar")
 print("")
-input("------------------------Generador de quadrilaters buits------------------------")
+input("------------------------Generador de quadres buits------------------------")
 os.system("clear")
 
 def programa():
