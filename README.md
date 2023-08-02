@@ -1,2 +1,2 @@
 # Generadors_quadrilaters_buits
-Senzillament un generador de quadrilaters buits
+Senzillament un generador de quadres buits
