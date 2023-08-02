@@ -31,6 +31,10 @@ Finalment s'executara el programa.
 
 ## Imatges del programa
 
+![primera_vacio](https://github.com/Miquellama/Generadors_quadres_buits/assets/54858840/d01ed305-392b-49d8-bb75-43e97cdc54d4)
+
+![segunda_vacio](https://github.com/Miquellama/Generadors_quadres_buits/assets/54858840/ff977c6c-3994-4b36-8948-5a3bf3aa7edc)
+
 
 
 
