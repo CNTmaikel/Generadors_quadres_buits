@@ -1,8 +1,13 @@
 import time
 import os
-from tqdm.auto import tqdm
 
-os.system("clear")
+def borrarPantalla(): #Definimos la función estableciendo el nombre que queramos
+    if os.name == "posix":
+       os.system ("clear")
+    elif os.name == "ce" or os.name == "nt" or os.name == "dos":
+       os.system ("cls")
+
+borrarPantalla()
 
 print("")
 print("------------------------Generador de quadres buits------------------------")
@@ -12,14 +17,14 @@ print("")
 print("--------------------------------Instruccions--------------------------------")
 print("Hauràs d'introduir un valor per l'altura i la llargada del quadre")
 print("IMPORTANT tingues en compte no posar ningun caracter que no sigui un nombre")
-print("En aquest cas el prgrama fallarà i s'haurà de reiniciar")
+print("En aquest cas el prgrama fallara i s'haurà de reiniciar")
 print("")
 print("--------------------------------Instruccions--------------------------------")
 print("")
 print("Perfavor, premeu intro per continuar")
 print("")
 input("------------------------Generador de quadres buits------------------------")
-os.system("clear")
+borrarPantalla()
 
 def programa():
     altura = int(input("--> Defineix l'altura: "))
@@ -50,10 +55,10 @@ def programa():
     def reinicio():
         reiniciar = input("Desitja continuar? [Y/n]: ")
         if reiniciar == "Y":
-            os.system("clear")
+            borrarPantalla()
             programa()
         elif reiniciar == "y":
-            os.system("clear")
+            borrarPantalla()
             programa()
         elif reiniciar == "n":
             print("")
